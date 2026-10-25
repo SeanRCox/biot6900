@@ -1,0 +1,184 @@
+rsid,gene,consequence,aa_change,cadd_phred,gnomad_af,evidence,provisional_call
+,DPYD,missense_variant,A683T,34.0,,"strong, pathogenic",towards pathogenic
+rs138616379,DPYD,missense_variant,R592Q,33.0,5.92136e-05,"strong, pathogenic",towards pathogenic
+rs2101558314,DPYD,missense_variant,M947T,7.901,,"strong, benign",towards benign
+,DPYD,missense_variant,D659H,19.93,,"strong, benign",towards benign
+rs201018345,DPYD,missense_variant,A323T,23.1,8.54824e-05,no evidence either way,stay put
+rs764945792,DPYD,missense_variant,C257Y,6.718,4.58484e-06,"strong, benign",towards benign
+rs778022685,DPYD,missense_variant,G123S,32.0,4.6176e-05,"strong, pathogenic",towards pathogenic
+rs760663364,DPYD,missense_variant,A513V,4.904,1.31664e-05,"strong, benign",towards benign
+rs55938520,DPYD,3_prime_UTR_variant,,1.542,0.00313432,"strong, benign",towards benign
+,DPYD,missense_variant,N51H,0.009,,"strong, benign",towards benign
+,DPYD,,,,,,not assessed
+rs763506271,DPYD,missense_variant,M675V,26.1,6.57091e-06,"moderate, pathogenic",towards pathogenic
+rs756613407,DPYD,missense_variant,M559V,25.4,3.98991e-06,"moderate, pathogenic",towards pathogenic
+rs776082092,DPYD,missense_variant,S472N,22.8,1.31461e-05,no evidence either way,stay put
+rs151074666,DPYD,missense_variant,D1000N,23.5,0.000171125,no evidence either way,stay put
+rs1373058882,DPYD,missense_variant,G957V,34.0,6.57471e-06,"strong, pathogenic",towards pathogenic
+rs1648944201,DPYD,3_prime_UTR_variant,,,6.57099e-06,,not assessed
+rs1648901054,DPYD,3_prime_UTR_variant,,,,,not assessed
+rs912917991,DPYD,missense_variant,V464I,22.4,7.96902e-06,no evidence either way,stay put
+rs1177627814,DPYD,missense_variant,A344V,28.8,,"moderate, pathogenic",towards pathogenic
+rs757994597,DPYD,missense_variant,R332W,22.6,1.31503e-05,no evidence either way,stay put
+rs556933127,DPYD,missense_variant,I256M,8.441,9.20036e-05,"strong, benign",towards benign
+rs72549305,DPYD,missense_variant,I370V,10.78,6.57212e-06,"strong, benign",towards benign
+,DPYD,missense_variant,C49F,32.0,,"strong, pathogenic",towards pathogenic
+,DPYD,,,,,,not assessed
+rs1648902342,DPYD,3_prime_UTR_variant,,,,,not assessed
+rs202011255,DPYD,splice_region_variant,,2.667,0.00022377,"strong, benign",towards benign
+rs886046579,DPYD,missense_variant,Q407R,11.43,,"strong, benign",towards benign
+rs779728902,DPYD,missense_variant,M182K,14.99,1.97381e-05,"strong, benign",towards benign
+rs55992536,DPYD,3_prime_UTR_variant,,7.859,0.000644482,"strong, benign",towards benign
+rs886046574,DPYD,3_prime_UTR_variant,,,3.94146e-05,,not assessed
+rs190048823,DPYD,synonymous_variant,,8.656,7.89266e-05,"strong, benign",towards benign
+rs763165014,DPYD,synonymous_variant,,13.71,6.57955e-06,"strong, benign",towards benign
+,DPYD,missense_variant,M469L,22.1,,no evidence either way,stay put
+rs376073289,DPYD,missense_variant,R208Q,34.0,6.57938e-06,"strong, pathogenic",towards pathogenic
+rs1203563572,DPYD,3_prime_UTR_variant,,,6.57194e-06,,not assessed
+rs956842768,DPYD,missense_variant,P1018A,20.9,2.62943e-05,no evidence either way,stay put
+rs116364703,DPYD,missense_variant,Q498H,24.1,3.28593e-05,no evidence either way,stay put
+rs72975710,DPYD,missense_variant,A450V,25.7,0.000591786,"moderate, pathogenic",towards pathogenic
+rs767818267,DPYD,missense_variant,R70Q,32.0,1.31418e-05,"strong, pathogenic",towards pathogenic
+rs41285690,DPYD,3_prime_UTR_variant,,9.177,0.0111869,"strong, benign",towards benign
+rs1432965653,DPYD,missense_variant,N964K,24.2,6.57376e-06,no evidence either way,stay put
+rs889910324,DPYD,missense_variant,I582V,0.736,2.62826e-05,"strong, benign",towards benign
+rs886046571,DPYD,3_prime_UTR_variant,,,0.000243213,,not assessed
+rs114096998,DPYD,missense_variant,P1023S,19.99,0.000348505,"strong, benign",towards benign
+rs1185250556,DPYD,missense_variant,E244A,28.2,7.95653e-06,"moderate, pathogenic",towards pathogenic
+,DPYD,missense_variant,D61H,25.4,,"moderate, pathogenic",towards pathogenic
+rs374527058,DPYD,missense_variant,V586A,25.1,3.28584e-05,"moderate, pathogenic",towards pathogenic
+,DPYD,,,,,,not assessed
+rs183385770,DPYD,missense_variant,D342N,27.3,1.31437e-05,"moderate, pathogenic",towards pathogenic
+rs2101479885,DPYD,missense_variant,K63T,24.4,,no evidence either way,stay put
+,DPYD,,,,,,not assessed
+,DPYD,,,,,,not assessed
+rs1346856479,DPYD,missense_variant,I636T,14.01,6.57333e-06,"strong, benign",towards benign
+rs753707032,DPYD,missense_variant,T617M,27.1,1.97228e-05,"moderate, pathogenic",towards pathogenic
+rs1290815802,DPYD,missense_variant,A437V,33.0,,"strong, pathogenic",towards pathogenic
+rs1260688429,DPYD,missense_variant,I331M,8.174,3.97744e-06,"strong, benign",towards benign
+,DPYD,missense_variant,N242K,15.15,,"strong, benign",towards benign
+rs368617815,DPYD,synonymous_variant,,11.11,4.60393e-05,"strong, benign",towards benign
+rs756684474,DPYD,missense_variant,D46A,24.5,1.31541e-05,no evidence either way,stay put
+rs1648902933,DPYD,3_prime_UTR_variant,,,,,not assessed
+rs535104911,DPYD,3_prime_UTR_variant,,,0.000414022,,not assessed
+rs188501488,DPYD,3_prime_UTR_variant,,9.741,0.00368628,"strong, benign",towards benign
+rs139459586,DPYD,missense_variant,L993R,23.0,0.000341849,no evidence either way,stay put
+rs56056384,DPYD,intron_variant,,0.25,5.26357e-05,"strong, benign",towards benign
+rs770566506,DPYD,missense_variant,S326P,22.5,5.25949e-05,no evidence either way,stay put
+rs886046570,DPYD,3_prime_UTR_variant,,,0.000118325,,not assessed
+,DPYD,frameshift_variant,,,6.57376e-06,,not assessed
+rs1671426656,DPYD,missense_variant,A662T,33.0,6.57013e-06,"strong, pathogenic",towards pathogenic
+rs55971861,DPYD,missense_variant,I636L,18.61,0.00047346,"strong, benign",towards benign
+rs200709381,DPYD,missense_variant,K446T,11.79,1.31515e-05,"strong, benign",towards benign
+rs772254904,DPYD,splice_donor_variant,,24.4,6.57886e-06,no evidence either way,stay put
+rs778754188,DPYD,missense_variant,L578P,29.5,1.19942e-05,"moderate, pathogenic",towards pathogenic
+rs769306962,DPYD,missense_variant,A405S,20.4,,no evidence either way,stay put
+rs1648946118,DPYD,3_prime_UTR_variant,,,,,not assessed
+rs748639205,DPYD,missense_variant,V941A,0.158,7.96191e-06,"strong, benign",towards benign
+rs1661478140,DPYD,missense_variant,I171F,27.1,,"moderate, pathogenic",towards pathogenic
+rs1287988592,DPYD,splice_region_variant,,,,,not assessed
+rs771648776,DPYD,missense_variant,T552A,22.9,1.19703e-05,no evidence either way,stay put
+rs760663364,DPYD,missense_variant,A513G,3.594,,"strong, benign",towards benign
+rs377143350,DPYD,missense_variant,R357H,24.7,,no evidence either way,stay put
+rs368970772,DPYD,missense_variant,F163L,25.6,,"moderate, pathogenic",towards pathogenic
+,DPYD,missense_variant,I62N,25.1,,"moderate, pathogenic",towards pathogenic
+rs746681994,DPYD,missense_variant,K47N,28.6,7.9892e-06,"moderate, pathogenic",towards pathogenic
+rs745982505,DPYD,missense_variant,I998V,9.858,1.97319e-05,"strong, benign",towards benign
+rs201433243,DPYD,missense_variant,C622Y,23.4,0.000124892,no evidence either way,stay put
+rs147601618,DPYD,missense_variant,M599T,8.054,7.88478e-05,"strong, benign",towards benign
+rs886553467,DPYD,missense_variant,F576L,21.1,1.31605e-05,no evidence either way,stay put
+rs376128878,DPYD,synonymous_variant,,10.34,3.97848e-05,"strong, benign",towards benign
+rs72975710,DPYD,missense_variant,A450G,24.4,6.5754e-06,no evidence either way,stay put
+rs771885007,DPYD,missense_variant,S350P,23.9,6.57151e-06,no evidence either way,stay put
+rs779925747,DPYD,missense_variant,I293V,5.089,6.57134e-06,"strong, benign",towards benign
+,DPYD,missense_variant,M248T,23.8,,no evidence either way,stay put
+rs755645831,DPYD,missense_variant,Y186D,26.2,3.984e-06,"moderate, pathogenic",towards pathogenic
+rs767955683,DPYD,splice_region_variant,,2.89,8.55511e-05,"strong, benign",towards benign
+rs377169736,DPYD,missense_variant,M115I,16.01,8.56898e-05,"strong, benign",towards benign
+rs928681171,DPYD,missense_variant,C91F,34.0,1.97314e-05,"strong, pathogenic",towards pathogenic
+rs886046573,DPYD,3_prime_UTR_variant,,,3.28774e-05,,not assessed
+rs369990607,DPYD,intron_variant,,11.82,0.000341624,"strong, benign",towards benign
+rs61757362,DPYD,missense_variant,T983I,9.654,6.57454e-05,"strong, benign",towards benign
+rs141044036,DPYD,missense_variant,K958E,32.0,5.2588e-05,"strong, pathogenic",towards pathogenic
+rs1462320422,DPYD,missense_variant,G926E,26.9,6.57436e-06,"moderate, pathogenic",towards pathogenic
+rs146356975,DPYD,missense_variant,K290E,3.123,0.000736164,"strong, benign",towards benign
+rs1264198400,DPYD,missense_variant,E491V,33.0,6.57151e-06,"strong, pathogenic",towards pathogenic
+rs747633945,DPYD,missense_variant,R332Q,21.4,4.37498e-05,no evidence either way,stay put
+rs762102298,DPYD,missense_variant,L73R,26.0,1.31418e-05,"moderate, pathogenic",towards pathogenic
+rs1648927388,DPYD,3_prime_UTR_variant,,,,,not assessed
+,DPYD,missense_variant,P522L,26.0,,"moderate, pathogenic",towards pathogenic
+rs775930761,DPYD,synonymous_variant,,9.943,1.31447e-05,"strong, benign",towards benign
+rs750147471,DPYD,missense_variant,N457D,21.4,2.79116e-05,no evidence either way,stay put
+rs193920862,DPYD,splice_region_variant,,,,,not assessed
+rs528430685,DPYD,missense_variant,R410W,35.0,1.31624e-05,"strong, pathogenic",towards pathogenic
+rs140602333,DPYD,missense_variant,R394W,26.4,9.20677e-05,"moderate, pathogenic",towards pathogenic
+rs1354585423,DPYD,missense_variant,A380G,25.3,6.5735e-06,"moderate, pathogenic",towards pathogenic
+,DPYD,missense_variant,E246A,23.9,,no evidence either way,stay put
+,DPYD,,,,,,not assessed
+,DPYD,,,,,,not assessed
+,DPYD,,,,,,not assessed
+rs1649223892,DPYD,missense_variant,G936D,13.35,,"strong, benign",towards benign
+rs1188134745,DPYD,missense_variant,G567E,33.0,3.99116e-06,"strong, pathogenic",towards pathogenic
+rs142619737,DPYD,missense_variant,G539R,32.0,0.000467493,"strong, pathogenic",towards pathogenic
+rs199646142,DPYD,missense_variant,R410Q,35.0,0.000131574,"strong, pathogenic",towards pathogenic
+rs772906420,DPYD,missense_variant,V373I,25.1,6.5741e-06,"moderate, pathogenic",towards pathogenic
+rs780120302,DPYD,missense_variant,N646S,4.581,3.94322e-05,"strong, benign",towards benign
+rs59086055,DPYD,missense_variant,R592W,33.0,5.91848e-05,"strong, pathogenic",towards pathogenic
+,DPYD,missense_variant,V507A,22.8,,no evidence either way,stay put
+rs144395748,DPYD,missense_variant,P453R,28.0,0.000302484,"moderate, pathogenic",towards pathogenic
+rs746329786,DPYD,missense_variant,I281V,15.22,,"strong, benign",towards benign
+rs780025995,DPYD,missense_variant,P237L,33.0,1.97647e-05,"strong, pathogenic",towards pathogenic
+rs371587702,DPYD,missense_variant,T65M,24.2,0.000105199,no evidence either way,stay put
+rs1557791062,DPYD,missense_variant,S452N,16.22,,"strong, benign",towards benign
+rs376073289,DPYD,missense_variant,R208L,34.0,1.97381e-05,"strong, pathogenic",towards pathogenic
+rs373218392,DPYD,splice_region_variant,,16.41,3.95799e-05,"strong, benign",towards benign
+rs938680293,DPYD,missense_variant,Q88R,27.2,6.57177e-06,"moderate, pathogenic",towards pathogenic
+rs570164196,DPYD,3_prime_UTR_variant,,,0.000907262,,not assessed
+rs976162155,DPYD,3_prime_UTR_variant,,,1.97311e-05,,not assessed
+rs1407236928,DPYD,3_prime_UTR_variant,,,5.91529e-05,,not assessed
+rs886046572,DPYD,3_prime_UTR_variant,,,6.5741e-06,,not assessed
+rs138545885,DPYD,missense_variant,A664S,33.0,5.91343e-05,"strong, pathogenic",towards pathogenic
+rs775601164,DPYD,missense_variant,H25Y,8.681,,"strong, benign",towards benign
+rs754125729,DPYD,missense_variant,T557I,22.6,3.98966e-06,no evidence either way,stay put
+rs144935781,DPYD,missense_variant,M377V,0.205,0.000131444,"strong, benign",towards benign
+,DPYD,missense_variant,N264D,11.87,,"strong, benign",towards benign
+rs886046569,DPYD,3_prime_UTR_variant,,,9.86284e-05,,not assessed
+rs1648935697,DPYD,3_prime_UTR_variant,,,,,not assessed
+rs753289746,DPYD,3_prime_UTR_variant,,,7.88851e-05,,not assessed
+rs2101548857,DPYD,missense_variant,C992Y,33.0,,"strong, pathogenic",towards pathogenic
+rs1553209268,DPYD,splice_acceptor_variant,,,,,not assessed
+rs190771411,DPYD,synonymous_variant,,8.702,7.25144e-05,"strong, benign",towards benign
+,DPYD,missense_variant,K114E,27.8,,"moderate, pathogenic",towards pathogenic
+rs1283205838,DPYD,missense_variant,Y110H,27.6,4.00805e-06,"moderate, pathogenic",towards pathogenic
+rs1660302424,DPYD,intron_variant,,,,,not assessed
+rs1033092437,DPYD,splice_region_variant,,,6.57263e-06,,not assessed
+,DPYD,missense_variant,S577A,16.47,,"strong, benign",towards benign
+rs137984871,DPYD,3_prime_UTR_variant,,6.788,0.00203356,"strong, benign",towards benign
+rs763061658,DPYD,missense_variant,M166T,25.9,1.97267e-05,"moderate, pathogenic",towards pathogenic
+rs370363977,DPYD,intron_variant,,11.0,3.94265e-05,"strong, benign",towards benign
+rs760853559,DPYD,synonymous_variant,,11.41,3.9507e-05,"strong, benign",towards benign
+rs886046578,DPYD,intron_variant,,,4.04344e-06,,not assessed
+rs1165667490,DPYD,missense_variant,Q425E,15.73,6.57601e-06,"strong, benign",towards benign
+rs140114515,DPYD,missense_variant,V1017I,11.59,3.28783e-05,"strong, benign",towards benign
+rs1648195326,DPYD,missense_variant,A513P,11.11,,"strong, benign",towards benign
+rs190577302,DPYD,missense_variant,L352V,0.018,6.57263e-06,"strong, benign",towards benign
+rs143986398,DPYD,missense_variant,P92A,26.1,7.89391e-05,"moderate, pathogenic",towards pathogenic
+rs528768620,DPYD,missense_variant,C29Y,20.8,7.23789e-05,no evidence either way,stay put
+rs554389296,DPYD,upstream_gene_variant,,,0.00554852,,not assessed
+,DPYD,,,,,,not assessed
+,DPYD,,,,,,not assessed
+rs757155354,DPYD,missense_variant,D422G,22.8,2.38836e-05,no evidence either way,stay put
+rs886046580,DPYD,missense_variant,T343S,27.1,,"moderate, pathogenic",towards pathogenic
+rs141726921,DPYD,missense_variant,G258S,23.3,9.22108e-05,no evidence either way,stay put
+,DPYD,missense_variant,M170T,,,,not assessed
+rs2101479863,DPYD,missense_variant,K63N,25.9,,"moderate, pathogenic",towards pathogenic
+rs2101564724,DPYD,missense_variant,M642T,24.9,,no evidence either way,stay put
+rs140989814,DPYD,missense_variant,S994T,22.5,0.000184099,no evidence either way,stay put
+rs375990495,DPYD,intron_variant,,2.783,2.63075e-05,"strong, benign",towards benign
+rs762779297,DPYD,missense_variant,N955S,19.65,6.57367e-06,"strong, benign",towards benign
+rs763862486,DPYD,missense_variant,E950K,23.8,3.94436e-05,no evidence either way,stay put
+rs761584058,DPYD,stop_gained,E1012X,44.0,6.57436e-06,"strong, pathogenic",towards pathogenic
+rs760235888,DPYD,missense_variant,D984N,22.7,3.97899e-06,no evidence either way,stay put
+rs886046577,DPYD,missense_variant,P527L,25.5,,"moderate, pathogenic",towards pathogenic
+,DPYD,missense_variant,A639S,22.4,,no evidence either way,stay put
+,DPYD,missense_variant,F607S,26.7,,"moderate, pathogenic",towards pathogenic
