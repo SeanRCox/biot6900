@@ -1,1 +1,3 @@
 I did not encounter any issues on the first assignment.
+
+In this assignment, I checked my `biot6900` Python environment, practiced translating a DNA sequence with Biopython, and queried PubMed, UniProt, PDB, and the GWAS Catalog. I recorded short notes about the results, including p53 and the rs334 sickle-cell variant. To run it, activate the `biot6900` environment, open `module1_setup.ipynb` in Jupyter or VS Code, and run the cells in order with **Shift+Enter**, completing the TODO prompts. The goal was to verify the computational setup and practice retrieving biological information from common databases and APIs.

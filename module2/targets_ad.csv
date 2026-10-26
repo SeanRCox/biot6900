@@ -1,4 +1,4 @@
-gene,transcriptomic,proteomic,genomic,rna_prot_corr,score
+,transcriptomic,proteomic,genomic,rna_prot_corr,score
 FCGBP,4.449,1.82,0.151,0.543,0.992
 MYH11,4.422,2.762,0.113,0.427,0.992
 ANK2,3.499,1.521,0.142,0.393,0.986
