@@ -1,0 +1,39 @@
+src,rel,dst,pvalue,source
+FCGBP,ASSOCIATED_WITH,Colon cancer,,GWAS
+MYH11,ASSOCIATED_WITH,Colon cancer,,GWAS
+ANK2,ASSOCIATED_WITH,Colon cancer,,GWAS
+FLNC,ASSOCIATED_WITH,Colon cancer,,GWAS
+CP,ASSOCIATED_WITH,Colon cancer,,GWAS
+KCNMA1,ASSOCIATED_WITH,Colon cancer,,GWAS
+MYLK,ASSOCIATED_WITH,Colon cancer,,GWAS
+DMD,ASSOCIATED_WITH,Colon cancer,,GWAS
+COL1A1,ASSOCIATED_WITH,Colon cancer,,GWAS
+COLEC12,ASSOCIATED_WITH,Colon cancer,,GWAS
+EPB41L3,ASSOCIATED_WITH,Colon cancer,,GWAS
+MUC2,ASSOCIATED_WITH,Colon cancer,,GWAS
+SORBS2,ASSOCIATED_WITH,Colon cancer,,GWAS
+PPP1R12B,ASSOCIATED_WITH,Colon cancer,,GWAS
+TNS1,ASSOCIATED_WITH,Colon cancer,8e-08,GWAS
+VEGFA,ASSOCIATED_WITH,Colon cancer,,GWAS
+EGFR,ASSOCIATED_WITH,Colon cancer,,GWAS
+Colon cancer,HAS_PHENOTYPE,Abdominal pain,,
+Colon cancer,HAS_PHENOTYPE,Diarrhea,,
+Colon cancer,HAS_PHENOTYPE,Constipation,,
+Colon cancer,HAS_PHENOTYPE,Hematochezia,,
+Colon cancer,HAS_PHENOTYPE,Weight loss,,
+Colon cancer,HAS_PHENOTYPE,Fatigue,,
+TNS1,PARTICIPATES_IN,Non-integrin membrane-ECM interactions,,
+DMD,PARTICIPATES_IN,Non-integrin membrane-ECM interactions,,
+CP,PARTICIPATES_IN,Regulation of Insulin-like Growth Factor (IGF) transport,,
+MYH11,PARTICIPATES_IN,Regulation of Insulin-like Growth Factor (IGF) transport,,
+MYH11,PARTICIPATES_IN,Cell junction organization,,
+FLNC,PARTICIPATES_IN,Cell junction organization,,
+Bevacizumab (Avastin),TARGETS,VEGFA,,
+Cetuximab (Erbitux),TARGETS,EGFR,,
+Panitumumab (Vectibix),TARGETS,EGFR,,
+rs571255494,OCCURS_IN,TNS1,,
+chr2:218745672 G>A (p.Arg335Cys; GRCh37),OCCURS_IN,TNS1,,
+chr11:1093684delC (p.Thr1837ProfsTer11; GRCh37),OCCURS_IN,MUC2,,
+Parathyroid carcinoma,HAS_PHENOTYPE,Constipation,,
+CASR,ASSOCIATED_WITH,Parathyroid carcinoma,,GWAS
+Cinacalcet,TARGETS,CASR,,
